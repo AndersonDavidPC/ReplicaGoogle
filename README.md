@@ -1,5 +1,5 @@
 # Replica Google
-####👉[Esta es una página idéntica al search de Google](https://andersondavidpc.github.io/ReplicaGoogle/ "Esta es una página idéntica al search de Google")👈
+👉[Esta es una página idéntica al search de Google](https://andersondavidpc.github.io/ReplicaGoogle/ "Esta es una página idéntica al search de Google")👈
 [![Foto de la página](https://i.postimg.cc/X7ZsHsn6/2021-01-11.png)](https://postimg.cc/dLYRDm75)
 
 
